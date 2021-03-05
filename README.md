@@ -1,7 +1,7 @@
 # Software-Development-Principle
 This repo highlights the list of software development principles.
 
-## list of software development principle:
+## some software development principle you should know:
 
 1. [Fail Fast Principle](https://martinfowler.com/ieeeSoftware/failFast.pdf)
 2. [DRY Principle](https://www.oreilly.com/library/view/97-things-every/9780596809515/ch30.html)
