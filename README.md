@@ -10,6 +10,8 @@ This repo highlights the list of software development principles.
 5. [KISS principle](https://en.wikipedia.org/wiki/KISS_principle#:~:text=KISS%2C%20an%20acronym%20for%20keep,unnecessary%20complexity%20should%20be%20avoided.)
 6. [SLAP Principle](https://dev.to/codingunicorn/slap-coding-principle-27k3)
 7. [SOC Principle](https://nalexn.github.io/separation-of-concerns/)
+8. [Modularity Principle](https://www.geeksforgeeks.org/modularity-and-its-properties/)
+9. [Law of Demeter(LoD) Principle](https://www.infoworld.com/article/3136224/demystifying-the-law-of-demeter-principle.html)
 
 ## Give a Star! ⭐
 If you like or are using this project to learn, please give it a star. Thanks!
